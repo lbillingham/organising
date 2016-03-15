@@ -10,7 +10,7 @@
 
 - priority maps, priority queues, piggybacking from sudoku (Colin)
 
-- cross interest with Ed-lambda: comparing approaches to concurrency 
+- cross interest with Ed-lambda: comparing approaches to concurrency
 
 ## Coding sessions
 
